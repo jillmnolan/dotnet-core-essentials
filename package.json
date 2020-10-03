@@ -1,7 +1,7 @@
 {
     "name": "dotnet-core-essentials",
     "displayName": ".NET Core Essentials",
-    "description": ".NET Core Essentials Extension Pack",
+    "description": ".NET Core Essentials Extension Pack for Visual Studio Code",
     "version": "0.0.1",
     "icon": "icon.png",
     "publisher": "JillMNolan",
@@ -11,13 +11,65 @@
     "categories": [
         "Extension Packs"
     ],
-
     "repository": {
         "type": "git", 
         "url": "https://github.com/jillmnolan/dotnet-core-essentials"
     },
+    "keywords": [
+        "dotnet",
+        "dotnetcore",
+        "vscode",
+        "extensions",
+        "extensionpack"
+        "productivity",
+        "workflow"
+        ],
+    "author": "Jill M. Nolan <jill@samret.co>(mailto:jill@samret.co)",
+    "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/jillmnolan/dotnet-core-essentials/issues"
+  },
+  "homepage": "https://github.com/jillmnolan/dotnet-core-essentials#readme"
+}
 
     "extensionPack": [ 
-        
+        "ms-dotnettools.csharp",
+        "josephwoodward.vscodeilviewer",
+        "jchannon.csharpextensions",
+        "adrianwilczynski.namespace",
+        "k--kato.docomment",
+        "schneiderpat.aspnet-helper",
+        "formulahendry.dotnet-test-explorer",
+        "formulahendry.dotnet",
+        "adrianwilczynski.user-secrets",
+        "adrianwilczynski.add-reference",
+        "zxh404.vscode-proto3",
+        "adrianwilczynski.terminal-commands",
+        "doggy8088.netcore-snippets",
+        "adrianwilczynski.asp-net-core-switcher",
+        "adrianwilczynski.libman",
+        "craigthomas.supersharp",
+        "tintoy.msbuild-project-tools",
+        "jmrog.vscode-nuget-package-manager",
+        "christian-kohler.path-intellisense",
+        "pflannery.vscode-versionlens",
+        "jesschadwick.nuget-reverse-package-search",
+        "aaron-bond.better-comments",
+        "salbert.copy-text",
+        "EditorConfig.EditorConfig",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "MS-vsliveshare.vsliveshare-pack",
+        "ms-vsliveshare.vsliveshare",
+        "ms-mssql.mssql",
+        "WallabyJS.quokka-vscode",
+        "quicktype.quicktype",
+        "wayou.vscode-todo-highlight",
+        "ms-vscode.vs-keybindings",
+        "ybaumes.highlight-trailing-white-spaces",
+        "dbankier.vscode-quick-select",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "DavidAnson.vscode-markdownlint",
+        "MarcusLyons.azure-serverless-tools"
     ]
 }
