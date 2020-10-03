@@ -1,0 +1,23 @@
+{
+    "name": "dotnet-core-essentials",
+    "displayName": ".NET Core Essentials",
+    "description": ".NET Core Essentials Extension Pack",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "JillMNolan",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/jillmnolan/dotnet-core-essentials"
+    },
+
+    "extensionPack": [ 
+        
+    ]
+}
