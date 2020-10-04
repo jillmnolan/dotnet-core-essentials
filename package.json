@@ -16,6 +16,7 @@
         "url": "https://github.com/jillmnolan/dotnet-core-essentials"
     },
     "extensionPack": [ 
+        "Equinusocio.vsc-community-material-theme",
         "ms-dotnettools.csharp",
         "josephwoodward.vscodeilviewer",
         "jchannon.csharpextensions",
