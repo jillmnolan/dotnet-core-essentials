@@ -74,7 +74,7 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * [**composer**](https://getcomposer.org/).
 
-  * [**dotnet](https://www.dotnetfoundation.org/);
+  * [**dotnet**](https://www.dotnetfoundation.org/);
 
   * [**dub**](https://code.dlang.org/);
 
@@ -102,27 +102,27 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * Any other comment styles you'd like can be specified in the settings.
 
-* [##Bracket Pair Colorizer 2##](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2): A VSCode plugin that allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
+* [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2): A VSCode plugin that allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
 
 * [**Copy Text**](https://marketplace.visualstudio.com/items?itemName=salbert.copy-text): A VSCode plugin offers that copies text without colors, optionally adds metainfo such as the document name and its date.
 
-* [##EditorConfig for VS Code##](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): A VSCode plugin that provides ##EditorConfig Support## for VSCode.
+* [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): A VSCode plugin that provides ##EditorConfig Support## for VSCode.
 
-* [##GitIgnore##](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore): A VSCode plugin that provides language support for .gitignore files, whereby allowing you to pull .gitignore files from the [##gitignore##](https://github.com/github/gitignore) repository.
+* [**GitIgnore**](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore): A VSCode plugin that provides language support for .gitignore files, whereby allowing you to pull .gitignore files from the [##gitignore##](https://github.com/github/gitignore) repository.
 
-* [##GitLens — Git supercharged##](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): A VSCode plugin that supercharges its off-the-shelf Git capabilities, including but not limited to (1) visualize code authorship at a glance via Git blame annotations and code lens, (2) seamlessly navigate and explore Git repositories, and (3) gain valuable insights via powerful comparison commands.
+* [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): A VSCode plugin that supercharges its off-the-shelf Git capabilities, including but not limited to (1) visualize code authorship at a glance via Git blame annotations and code lens, (2) seamlessly navigate and explore Git repositories, and (3) gain valuable insights via powerful comparison commands.
 
-* [##Highlight Trailing White Spaces##](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces): A VSCode plugin that highlights in red color trailing white spaces.
+* [**Highlight Trailing White Spaces**](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces): A VSCode plugin that highlights in red color trailing white spaces.
 
-* [##Live Share Extension Pack##](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): A VSCode extension pack, which includes:
+* [**Live Share Extension Pack**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): A VSCode extension pack, which includes:
 
-  * [##Live Share##](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare): A VSCode extension that supports real-time collaborative development.
+  * [**Live Share**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare): A VSCode extension that supports real-time collaborative development.
 
-  * [##Live Share Audio##](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio): A VSCode extension that adds audio calling capabilities to ##Live Share##.
+  * [**Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio): A VSCode extension that adds audio calling capabilities to ##Live Share##.
 
-* [##MarkdownLint##](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): A VSCode plugin that serves as its Markdown linting and style checking.
+* [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): A VSCode plugin that serves as its Markdown linting and style checking.
 
-* [##MSSQL##](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql): A VSCode plugin that supports developing ##Microsoft SQL Server##, ##Azure SQL Database##, and ##SQL Data Warehouse##, whose functionalities including but not limited to:
+* [**MSSQL**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql): A VSCode plugin that supports developing ##Microsoft SQL Server##, ##Azure SQL Database##, and ##SQL Data Warehouse##, whose functionalities including but not limited to:
 
   * Connect to Microsoft SQL Server, Azure SQL Database and SQL Data Warehouses.
 
@@ -136,37 +136,53 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * Customizable extension options including command shortcuts and more.
 
-* [##Paste JSON as Code##](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype): A VSCode plugin that supports such languages as TypeScript, C#, JavaScript, and JSON Schema:
+* [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype): A VSCode plugin that supports such languages as TypeScript, C#, JavaScript, and JSON Schema:
 
   * Interactively generate types and (de-)serialization code from JSON, JSON Schema, and TypeScript.
 
   * Paste JSON/JSON Schema/TypeScript as code.
 
-* [##Quick and Simple Text Selection##](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select): A VSCode plugin that selects between including but not limited to quote, brackets, and tags.
+* [**Quick and Simple Text Selection**](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select): A VSCode plugin that selects between including but not limited to quote, brackets, and tags.
 
-* [##Quokka.js##](https://marketplace.visualstudio.com/items?itemName=WallabyJS.quokka-vscode): A VSCode plugin that supports rapid both ##JavaScript## and ##TypeScript## prototyping. ##Note##: ##Runtime values## are updated and displayed in the IDE next to your code, as you type.
+* [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJS.quokka-vscode): A VSCode plugin that supports rapid both ##JavaScript## and ##TypeScript## prototyping. ##Note##: ##Runtime values## are updated and displayed in the IDE next to your code, as you type.
 
-* [##TODO Highlight##](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): A VSCode plugin that highlights TODO, FIXME, and other annotations within your code.
+* [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): A VSCode plugin that highlights TODO, FIXME, and other annotations within your code.
 
-* [##Visual Studio Keymap##](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings): A VSCode plugin that ports popular VS keyboard shortcuts. ##Note##: After installing the extension and restarting VSCode, your favorite keyboard shortcuts from VS are now available.
+* [**Visual Studio Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings): A VSCode plugin that ports popular VS keyboard shortcuts. ##Note##: After installing the extension and restarting VSCode, your favorite keyboard shortcuts from VS are now available.
 
 #### Azure Support
 
-* [##Azure Serverless Tools##](https://marketplace.visualstudio.com/items?itemName=MarcusLyons.azure-serverless-tools): A VSCode extension pack that includes these plugins:
+* [**Azure Serverless Tools**](https://marketplace.visualstudio.com/items?itemName=MarcusLyons.azure-serverless-tools): A VSCode extension pack that includes these plugins:
 
-    * [##Azure Account##](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account), which provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. ##Note##: This plugin makes Azure's Cloud Shell service available in VSCode's integrated terminal.
+    * [**Azure Account**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account), which provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. ##Note##: This plugin makes Azure's Cloud Shell service available in VSCode's integrated terminal.
 
-    * [##Azure Databases##](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb), which is a plugin that browses and queries your Azure databases both locally and in the cloud using #scrapbooks# with rich Intellisense then connect to Azure to manage your PostgreSQL and Cosmos DB databases with support for MongoDB, Graph (Gremlin), and SQL.
+    * [**Azure Databases**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb), which is a plugin that browses and queries your Azure databases both locally and in the cloud using #scrapbooks# with rich Intellisense then connect to Azure to manage your PostgreSQL and Cosmos DB databases with support for MongoDB, Graph (Gremlin), and SQL.
 
-    * [##Azure Functions##](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions), which is a plugin that quickly create, debug, manage, and deploy serverless apps directly from VS Code.
+    * [**Azure Functions**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions), which is a plugin that quickly create, debug, manage, and deploy serverless apps directly from VS Code.
 
-    * [##Azure Pipelines##](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines), which is a plugin that adds syntax highlighting and autocompletion for Azure Pipelines YAML to VS Code. Likewise, this plugin allows you set up continuous build and deployment for Azure Web Apps without leaving VSCode.
+    * [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines), which is a plugin that adds syntax highlighting and autocompletion for Azure Pipelines YAML to VS Code. Likewise, this plugin allows you set up continuous build and deployment for Azure Web Apps without leaving VSCode.
 
-    * [##Azure Storage##](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage), which is a Microsoft-managed service providing cloud storage that is highly available, secure, durable, scalable, and redundant. ##Note##: Use the extension to deploy static websites and Single Page Apps (SPAs) and browse Azure Blob Containers, File Shares, Tables, and Queues.
+    * [**Azure Storage**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage), which is a Microsoft-managed service providing cloud storage that is highly available, secure, durable, scalable, and redundant. ##Note##: Use the extension to deploy static websites and Single Page Apps (SPAs) and browse Azure Blob Containers, File Shares, Tables, and Queues.
 
-    * [##Azure Terraform##](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform), which is a plugin that is designed to increase developer productivity authoring, testing and using Terraform with Azure. ##Note##: This plugin provides terraform command support, resource graph visualization and CloudShell integration inside VSCode.
+    * [**Azure Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform), which is a plugin that is designed to increase developer productivity authoring, testing and using Terraform with Azure. ##Note##: This plugin provides terraform command support, resource graph visualization and CloudShell integration inside VSCode.
 
 ## Visual Studio Code Tips and Tricks from its Docs
+
+* Please puruse the [**Visual Studio Code Variables Reference**](https://code.visualstudio.com/docs/editor/variables-reference), if you wish to use variables substitution.
+
+* VSCode Keyword Shortcuts
+
+  * [**Linux**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf): Link contains PDF.
+
+  * [**macOS**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf): Link contains PDF.
+
+  * [**Windows**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): Link contains PDF.
+
+* Please puruse the [**Visual Studio Code Keybindings**](https://code.visualstudio.com/docs/getstarted/keybindings), if you wish to use custom keybindings.
+
+  * [**Optional Keymap Extensions**](https://code.visualstudio.com/docs/getstarted/tips-and-tricks): I recommend the specific keybinding extension that meets your use case through Microsoft, if possible.
+
+* Please puruse the [**Visual Studio Code Tips and Tricks**](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) to make your experience a little bit more enjoyable.
 
 ## Note
 
@@ -174,9 +190,9 @@ It is my pledge to update this Extension Package with update extension as needed
 
 ## Recommended Tutorial for Visual Studio Code
 
-* [**Visual Studio Code Crash Course**] (1:32:34): Courtesy of [**Mr. James Quick**](https://learn.jamesqquick.com/) from [**FreeCodeCamp.org**](https://www.freecodecamp.org/), whom provided a [**VSCode Cheatsheet**](https://learn.jamesqquick.com/vs-code-cheat-sheet) on his website (note: free registration required).
+* [**Visual Studio Code Crash Course**](https://www.youtube.com/watch?v=WPqXP_kLzpo) (1:32:34): Courtesy of [**Mr. James Quick**](https://learn.jamesqquick.com/) from [**FreeCodeCamp.org**](https://www.freecodecamp.org/), whom provided a [**VSCode Cheatsheet**](https://learn.jamesqquick.com/vs-code-cheat-sheet) on his website (note: free registration required).
 
-**Please let me know if you know any other _FREE_ Python resources that might benefit others by creating a new issue in the [**Issues Section**](https://github.com/jillmnolan/dotnet-core-essentials/issues).**
+**Please let me know if you know any _FREE_ .NET Core resources that might benefit others by creating a new issue in the [**Issues Section**](https://github.com/jillmnolan/dotnet-core-essentials/issues).**
 
 ## Attribution
 
