@@ -104,11 +104,11 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2): A VSCode plugin that allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
 
-* [**Copy Text**](https://marketplace.visualstudio.com/items?itemName=salbert.copy-text): A VSCode plugin offers that copies text without colors, optionally adds metainfo such as the document name and its date.
+* [**Copy Text**](https://marketplace.visualstudio.com/items?itemName=salbert.copy-text): A VSCode plugin offers that copies text without colors, optionally adds _metainfo_ such as the document name and its date.
 
-* [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): A VSCode plugin that provides ##EditorConfig Support## for VSCode.
+* [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): A VSCode plugin that provides **EditorConfig Support** for VSCode.
 
-* [**GitIgnore**](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore): A VSCode plugin that provides language support for .gitignore files, whereby allowing you to pull .gitignore files from the [##gitignore##](https://github.com/github/gitignore) repository.
+* [**GitIgnore**](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore): A VSCode plugin that provides language support for .gitignore files, whereby allowing you to pull .gitignore files from the [**gitignore**](https://github.com/github/gitignore) repository.
 
 * [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): A VSCode plugin that supercharges its off-the-shelf Git capabilities, including but not limited to (1) visualize code authorship at a glance via Git blame annotations and code lens, (2) seamlessly navigate and explore Git repositories, and (3) gain valuable insights via powerful comparison commands.
 
@@ -118,11 +118,11 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * [**Live Share**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare): A VSCode extension that supports real-time collaborative development.
 
-  * [**Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio): A VSCode extension that adds audio calling capabilities to ##Live Share##.
+  * [**Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio): A VSCode extension that adds audio calling capabilities to **Live Share**.
 
 * [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): A VSCode plugin that serves as its Markdown linting and style checking.
 
-* [**MSSQL**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql): A VSCode plugin that supports developing ##Microsoft SQL Server##, ##Azure SQL Database##, and ##SQL Data Warehouse##, whose functionalities including but not limited to:
+* [**MSSQL**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql): A VSCode plugin that supports developing **Microsoft SQL Server**, **Azure SQL Database**, and **SQL Data Warehouse**, whose functionalities including but not limited to:
 
   * Connect to Microsoft SQL Server, Azure SQL Database and SQL Data Warehouses.
 
@@ -144,17 +144,17 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**Quick and Simple Text Selection**](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select): A VSCode plugin that selects between including but not limited to quote, brackets, and tags.
 
-* [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJS.quokka-vscode): A VSCode plugin that supports rapid both ##JavaScript## and ##TypeScript## prototyping. ##Note##: ##Runtime values## are updated and displayed in the IDE next to your code, as you type.
+* [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJS.quokka-vscode): A VSCode plugin that supports rapid both **JavaScript** and **TypeScript** prototyping. **Note**: **Runtime values** are updated and displayed in the IDE next to your code, as you type.
 
 * [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): A VSCode plugin that highlights TODO, FIXME, and other annotations within your code.
 
-* [**Visual Studio Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings): A VSCode plugin that ports popular VS keyboard shortcuts. ##Note##: After installing the extension and restarting VSCode, your favorite keyboard shortcuts from VS are now available.
+* [**Visual Studio Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings): A VSCode plugin that ports popular VS keyboard shortcuts. **Note**: After installing the extension and restarting VSCode, your favorite keyboard shortcuts from VS are now available.
 
 #### Azure Support
 
 * [**Azure Serverless Tools**](https://marketplace.visualstudio.com/items?itemName=MarcusLyons.azure-serverless-tools): A VSCode extension pack that includes these plugins:
 
-    * [**Azure Account**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account), which provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. ##Note##: This plugin makes Azure's Cloud Shell service available in VSCode's integrated terminal.
+    * [**Azure Account**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account), which provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. **Note**: This plugin makes Azure's Cloud Shell service available in VSCode's integrated terminal.
 
     * [**Azure Databases**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb), which is a plugin that browses and queries your Azure databases both locally and in the cloud using #scrapbooks# with rich Intellisense then connect to Azure to manage your PostgreSQL and Cosmos DB databases with support for MongoDB, Graph (Gremlin), and SQL.
 
@@ -162,9 +162,9 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
     * [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines), which is a plugin that adds syntax highlighting and autocompletion for Azure Pipelines YAML to VS Code. Likewise, this plugin allows you set up continuous build and deployment for Azure Web Apps without leaving VSCode.
 
-    * [**Azure Storage**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage), which is a Microsoft-managed service providing cloud storage that is highly available, secure, durable, scalable, and redundant. ##Note##: Use the extension to deploy static websites and Single Page Apps (SPAs) and browse Azure Blob Containers, File Shares, Tables, and Queues.
+    * [**Azure Storage**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage), which is a Microsoft-managed service providing cloud storage that is highly available, secure, durable, scalable, and redundant. **Note**: Use the extension to deploy static websites and Single Page Apps (SPAs) and browse Azure Blob Containers, File Shares, Tables, and Queues.
 
-    * [**Azure Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform), which is a plugin that is designed to increase developer productivity authoring, testing and using Terraform with Azure. ##Note##: This plugin provides terraform command support, resource graph visualization and CloudShell integration inside VSCode.
+    * [**Azure Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform), which is a plugin that is designed to increase developer productivity authoring, testing and using Terraform with Azure. **Note**: This plugin provides terraform command support, resource graph visualization and CloudShell integration inside VSCode.
 
 ## Visual Studio Code Tips and Tricks from its Docs
 
