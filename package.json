@@ -54,6 +54,7 @@
         "dbankier.vscode-quick-select",
         "CoenraadS.bracket-pair-colorizer-2",
         "DavidAnson.vscode-markdownlint",
-        "MarcusLyons.azure-serverless-tools"
+        "MarcusLyons.azure-serverless-tools",
+        "warren-buckley.iis-express"
     ]
 }

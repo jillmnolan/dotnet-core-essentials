@@ -114,6 +114,9 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**Highlight Trailing White Spaces**](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces): A VSCode plugin that highlights in red color trailing white spaces.
 
+* [IISExpress for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=warren-buckley.iis-express): A VSCode plugin that allows for running the current folder as a website using the IIS Express web server
+
+
 * [**Live Share Extension Pack**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): A VSCode extension pack, which includes:
 
   * [**Live Share**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare): A VSCode extension that supports real-time collaborative development.
@@ -195,7 +198,7 @@ It is my pledge to update this Extension Package with update extension as needed
 ## Recommended .NET Tutorials
 
 * [**IAMTimCorey**](https://www.youtube.com/user/IAmTimCorey): I highly recommend this YouTube channel for mastering **.NET Development**, particularly check out:
-  * [**Intro to VSCode for C# Developers - From Installation to Debugging**](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
+  * [**Intro to VSCode for C# Developers - From Installation to Debugging**](https://www.youtube.com/watch?v=r5dtl9Uq9V0) (49:29) [October 14, 2019]
 
 **Please let me know if you know any _FREE_ .NET Core resources that might benefit others by creating a new issue in the [**Issues Section**](https://github.com/jillmnolan/dotnet-core-essentials/issues).**
 
