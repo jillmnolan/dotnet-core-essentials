@@ -192,6 +192,11 @@ It is my pledge to update this Extension Package with update extension as needed
 
 * [**Visual Studio Code Crash Course**](https://www.youtube.com/watch?v=WPqXP_kLzpo) (1:32:34): Courtesy of [**Mr. James Quick**](https://learn.jamesqquick.com/) from [**FreeCodeCamp.org**](https://www.freecodecamp.org/), whom provided a [**VSCode Cheatsheet**](https://learn.jamesqquick.com/vs-code-cheat-sheet) on his website (note: free registration required).
 
+## Recommended .NET Tutorials
+
+* [**IAMTimCorey**](https://www.youtube.com/user/IAmTimCorey): I highly recommend this YouTube channel for mastering **.NET Development**, particularly check out:
+  * [**Intro to VSCode for C# Developers - From Installation to Debugging**](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
+
 **Please let me know if you know any _FREE_ .NET Core resources that might benefit others by creating a new issue in the [**Issues Section**](https://github.com/jillmnolan/dotnet-core-essentials/issues).**
 
 ## Attribution
