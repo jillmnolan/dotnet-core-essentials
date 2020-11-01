@@ -114,7 +114,7 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**Highlight Trailing White Spaces**](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces): A VSCode plugin that highlights in red color trailing white spaces.
 
-* [IISExpress for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=warren-buckley.iis-express): A VSCode plugin that allows for running the current folder as a website using the IIS Express web server
+* [**IISExpress for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=warren-buckley.iis-express): A VSCode plugin that allows for running the current folder as a website using the IIS Express web server
 
 
 * [**Live Share Extension Pack**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): A VSCode extension pack, which includes:
