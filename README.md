@@ -169,6 +169,10 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
     * [**Azure Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform), which is a plugin that is designed to increase developer productivity authoring, testing and using Terraform with Azure. **Note**: This plugin provides terraform command support, resource graph visualization and CloudShell integration inside VSCode.
 
+## Recommended Extension to Complement This Extension Pack
+
+* [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly): A **Visual Studio Code extension** that debugs **Node.js** programs and **web applications** in both **Microsoft Edge** and **Google Chrome**, respectively.
+
 ## Visual Studio Code Tips and Tricks from its Docs
 
 * Please puruse the [**Visual Studio Code Variables Reference**](https://code.visualstudio.com/docs/editor/variables-reference), if you wish to use variables substitution.

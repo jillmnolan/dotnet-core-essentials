@@ -2,7 +2,7 @@
     "name": "dotnet-core-essentials",
     "displayName": ".NET Core Essentials",
     "description": ".NET Core Essentials Extension Pack for Visual Studio Code",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "icon": "icon.png",
     "publisher": "JillMNolan",
     "engines": {
