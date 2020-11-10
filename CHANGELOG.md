@@ -7,3 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.1.0
 
 * Added NuGet Gallery extension, which is referenced in Visual Studio Code Marketplace at [https://marketplace.visualstudio.com/items?itemName=patcx.vscode-nuget-gallery].
+* Removed C# Extensions, which are referenced in Visual Studio Code Marketplace at [https://marketplace.visualstudio.com/jchannon.csharpextensions]
+* Added  C# Extensions, which are referenced in Visual Studio Code Marketplace at [https://marketplace.visualstudio.com/items?itemName=kreativ-software.csharpextensions]
+* Added Material Icon Theme, which is referenced in Visual Studio Code Marketplace at [https://marketplace.visualstudio/tems?itemName=PKief.material-icon-theme]

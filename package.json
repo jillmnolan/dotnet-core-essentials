@@ -19,7 +19,6 @@
         "Equinusocio.vsc-community-material-theme",
         "ms-dotnettools.csharp",
         "josephwoodward.vscodeilviewer",
-        "jchannon.csharpextensions",
         "adrianwilczynski.namespace",
         "k--kato.docomment",
         "schneiderpat.aspnet-helper",
@@ -56,6 +55,8 @@
         "DavidAnson.vscode-markdownlint",
         "MarcusLyons.azure-serverless-tools",
         "warren-buckley.iis-express",
-        "patcx.vscode-nuget-gallery"
+        "patcx.vscode-nuget-gallery",
+        "kreativ-software.csharpextensions",
+        "PKief.material-icon-theme"
     ]
 }

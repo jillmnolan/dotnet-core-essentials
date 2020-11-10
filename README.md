@@ -12,7 +12,7 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**Community Material Theme**](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme): A **VS Code plugin** featuring the Material Theme with 'legacy' color schemes that has been embarced by the developer community.
 
-* [**Studio Icons**](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme): A **VSCode plugin** featuring official icons from the **Visual Studio Image Library**. **Note**: These icons have been color optimized to work well for dark, light, and high contrast themes.
+* [**Material Icon Theme**](https://marketplace.visualstudio/tems?itemName=PKief.material-icon-theme): A **VS Code plugin** that offers **Material Design** icons for **Visual Studio Code**.
 
 ### Recommended Extensions for .NET Core Development
 
@@ -28,7 +28,7 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * Support for **project.json** and **csproj projects** on **Windows**, **macOS**, and **Linux**.
 
-* [**C# Extensions**](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions): A **VSCode plugin** that provides extensions in an effort to speed up development workflows.
+* [**C# Extensions**](https://marketplace.visualstudio.com/items?itemName=kreativ-software.csharpextensions): A **VSCode plugin** that provides extensions to **VSCode** to speed up your development workflow.
 
 * [**C# IL Viewer**](https://marketplace.visualstudio.com/items?itemName=josephwoodward.vscodeilviewer): A **VSCode plugin** for **IL (Intermediate Language) Viewer** that allows the rapid inspection of the **IL output** of any given **C# file**.
 
