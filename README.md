@@ -64,6 +64,8 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**MSBuild Project Tools**](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools): A **VSCode plugin** that provides **Intellisense** for **MSBuild project files**, including **auto-complete** for **<PackageReference>** elements.
 
+* [**NuGet Gallery**](https://marketplace.visualstudio.com/items?itemName=patcx.vscode-nuget-gallery): A **VSCode plugin** that provides the installation and even subsequent "un-installation" of **NuGet packages** easier.
+
 * [**NuGet Package Manager**](https://marketplace.visualstudio.com/items?itemName=jmrog.vscode-nuget-package-manager): A **VSCode plugin** that allows for add or remove **.NET Core 1.1+ package references** to and from your project's **.csproj** or **.fsproj files** using **Command Palette**.
 
 * [**NuGet Reverse Package Search**](https://marketplace.visualstudio.com/items?itemName=jesschadwick.nuget-reverse-package-search): A **VSCode plugin** that adds the **reverse .NET Core package lookup support** such as the **Add Package** context menu item in full **Visual Studio**.
