@@ -199,7 +199,8 @@ It is my pledge to update this Extension Package with update extension as needed
 
 ## Recommended Tutorial for Visual Studio Code
 
-* [**Visual Studio Code Crash Course**](https://www.youtube.com/watch?v=WPqXP_kLzpo) (1:32:34): Courtesy of [**Mr. James Quick**](https://learn.jamesqquick.com/) from [**FreeCodeCamp.org**](https://www.freecodecamp.org/), whom provided a [**VSCode Cheatsheet**](https://learn.jamesqquick.com/vs-code-cheat-sheet) on his website (note: free registration required).
+* [**Visual Studio Code Full Course - VS Code for Beginners**](https://www.youtube.com/watch?v=UTQp6mvhb0Y) (4:32:46) | [November 4, 2020]: Courtesy of [**Bitfumes**](https://www.youtube.com/bitfumes) in partnership with [**FreeCodeCamp.org**](https://www.freecodecamp.org/).
+* [**Visual Studio Code Crash Course**](https://www.youtube.com/watch?v=WPqXP_kLzpo) (1:32:34): Courtesy of [**Mr. James Quick**](https://learn.jamesqquick.com/) in partnership with [**FreeCodeCamp.org**](https://www.freecodecamp.org/), whom provided a [**VSCode Cheatsheet**](https://learn.jamesqquick.com/vs-code-cheat-sheet) on his website (note: free registration required).
 
 ## Recommended .NET Tutorials
 
